@@ -1,5 +1,5 @@
-# requirements.txt
-python-telegram-bot[ext]
+# requirements.txt - UPDATED
+python-telegram-bot[ext, webhook]
 flask
 python-dotenv
 gunicorn
